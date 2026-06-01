@@ -1,29 +1,91 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Deepanshu!
+<h1 align="center">Hi 👋, I'm Deepanshu Mehandia</h1>
+<h3 align="center">Software Developer | ECE (IoT) Graduate from NSUT | Aspiring Cloud & Full-Stack Engineer</h3>
 
-I'm a passionate Software Developer with a strong interest in creating unique and user-friendly we applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Enthusiast;Cloud+Engineering+Learner;Open+Source+Contributor" />
+</p>
 
-## Socials:
+---
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/DeepanshuM80248)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-mehandia-5a90b420a/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/deepanshu_mehandia/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](deepanshu2109mehandia@gmail.com)
+## 🚀 About Me
 
+- 🎓 B.Tech in Electronics & Communication Engineering (IoT), NSUT
+- 💻 Passionate about Software Development and Web Technologies
+- ☁️ Currently learning Cloud Engineering & DevOps
+- 🌱 Exploring AWS, Docker, Kubernetes and System Design
+- 📈 GATE 2025 (CS): AIR 9448
+- 📫 Reach me at: **deepanshu2109mehandia@gmail.com**
 
-## Languages and Tools:
+---
 
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnshuPathak-88825.AnshuPathak-88825&left_color=grey&right_color=blue) -->
-## GitHub Stats:
-  ![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepanshu-mehandia&show_icons=true&theme=tokyonight)
-  ![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu-mehandia&show_icons=true&locale=en&layout=compact&theme=onedark)
-  
-  
-  
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/deepanshu-mehandia-5a90b420a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/DeepanshuM80248">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/deepanshu_mehandia/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:deepanshu2109mehandia@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,bootstrap,tailwind,jquery,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepanshu-mehandia&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-mehandia&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=deepanshu-mehandia&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=deepanshu-mehandia&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Project 1
+Brief description of your project.
+
+### 🔹 Project 2
+Brief description of your project.
+
+### 🔹 Project 3
+Brief description of your project.
+
+---
+
+## 📈 Contribution Graph
+
+[![Deepanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-mehandia&theme=tokyo-night)](https://github.com/deepanshu-mehandia)
+
+---
+
+⭐ From [Deepanshu Mehandia](https://github.com/deepanshu-mehandia)
