@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Mehandia</h1>
-<h3 align="center">Software Developer | ECE (IoT) Graduate from NSUT | Aspiring Cloud & Full-Stack Engineer</h3>
+<h3 align="center">Software Developer | ECE (IoT) Graduate from NSUT | CSE Post-Graduate from VNIT | Aspiring Cloud & Full-Stack Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Enthusiast;Cloud+Engineering+Learner;Open+Source+Contributor" />
@@ -10,10 +10,10 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech in Electronics & Communication Engineering (IoT), NSUT
+- 🎓 M.Tech in Conputer Science and Engineering, VNIT
 - 💻 Passionate about Software Development and Web Technologies
 - ☁️ Currently learning Cloud Engineering & DevOps
 - 🌱 Exploring AWS, Docker, Kubernetes and System Design
-- 📈 GATE 2025 (CS): AIR 9448
 - 📫 Reach me at: **deepanshu2109mehandia@gmail.com**
 
 ---
@@ -50,10 +50,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepanshu-mehandia&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-mehandia&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=deepanshu-mehandia&theme=tokyonight&hide_border=true" />
@@ -61,30 +57,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=deepanshu-mehandia&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Project 1
-Brief description of your project.
-
-### 🔹 Project 2
-Brief description of your project.
-
-### 🔹 Project 3
-Brief description of your project.
-
----
-
 ## 📈 Contribution Graph
 
-[![Deepanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-mehandia&theme=tokyo-night)](https://github.com/deepanshu-mehandia)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-mehandia&theme=tokyo-night)](https://github.com/deepanshu-mehandia)
 
 ---
 
